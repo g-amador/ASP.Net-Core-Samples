@@ -1,0 +1,16 @@
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\bin\Debug\netcoreapp3.1\OpenXMLdemo.exe
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\bin\Debug\netcoreapp3.1\OpenXMLdemo.deps.json
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\bin\Debug\netcoreapp3.1\OpenXMLdemo.runtimeconfig.json
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\bin\Debug\netcoreapp3.1\OpenXMLdemo.runtimeconfig.dev.json
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\bin\Debug\netcoreapp3.1\OpenXMLdemo.dll
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\bin\Debug\netcoreapp3.1\OpenXMLdemo.pdb
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\obj\Debug\netcoreapp3.1\OpenXMLdemo.csprojAssemblyReference.cache
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\obj\Debug\netcoreapp3.1\OpenXMLdemo.AssemblyInfoInputs.cache
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\obj\Debug\netcoreapp3.1\OpenXMLdemo.AssemblyInfo.cs
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\obj\Debug\netcoreapp3.1\OpenXMLdemo.csproj.CoreCompileInputs.cache
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\obj\Debug\netcoreapp3.1\OpenXMLdemo.csproj.CopyComplete
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\obj\Debug\netcoreapp3.1\OpenXMLdemo.dll
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\obj\Debug\netcoreapp3.1\OpenXMLdemo.pdb
+C:\Users\goncalo.amador\source\repos\OpenXMLdemo\OpenXMLdemo\obj\Debug\netcoreapp3.1\OpenXMLdemo.genruntimeconfig.cache
